@@ -1,0 +1,9 @@
+ COMPLEXITY ANALYSIS FOR TRADITIONAL APPROACH:(without hashing)
+
+i.	Time Complexity: O (n2)
+ii.	Space Complexity: O (n)
+
+ COMPLEXITY ANALYSIS FOR OPTIMIZED APPROACH:(with hashing)
+
+i.	Time Complexity: O (n)
+ii.	Space Complexity: O (n)
