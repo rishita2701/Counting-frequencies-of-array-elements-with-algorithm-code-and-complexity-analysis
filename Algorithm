@@ -1,0 +1,19 @@
+ ALGORITHM FOR TRADITIONAL APPROACH:(without hashing)
+
+1.	Start
+2.	Input the number of elements of an array.
+3.	Input the array elements.
+4.	Create another array to store the frequency of elements.
+5.	Traverse the input array and update the count of the elements in the frequency array.
+6.	Print the frequency array which displays the frequency of all the elements of the array.
+7.	End
+
+ ALGORITHM FOR OPTIMIZED APPROACH:(with hashing)
+
+1.	Start
+2.	Input the number of elements of the array.
+3.	Input the array elements.
+4.	Create a hash table and update the element in one column and its frequency in the other column.
+5.	Print the element along with its frequency.
+6.	End
+
